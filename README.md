@@ -1,4 +1,7 @@
 # -臧超博客blogger模板开源代码共享-
+
+【基于blogger建立的博客】【欢迎访问http://www.superchao.info/】
+
 臧超博客blogger模板开源代码，献给喜欢Blogger的朋友。
 
 1.模板移植自专业的Wordpress模板：iBluety
