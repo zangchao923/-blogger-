@@ -1,4 +1,4 @@
-# -blogger-
+# -臧超博客blogger模板开源代码共享-
 臧超博客blogger模板开源代码，献给喜欢Blogger的朋友。
 
 1.模板移植自专业的Wordpress模板：iBluety
