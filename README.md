@@ -27,4 +27,4 @@
 
 Blogger主站IP：hosts映射 "60.199.175.187 www.blogger.com" 即可通过https://www.blogger.com正常
 
-演示http://www.superchao.info
+演示http://www.geooll.com
