@@ -1,6 +1,6 @@
 # -臧超博客blogger模板开源代码共享-
 
-【基于blogger建立的博客】【欢迎访问】http://www.superchao.info/
+【基于blogger建立的博客】【欢迎访问】http://www.geooll.com/
 
 臧超博客blogger模板开源代码，献给喜欢Blogger的朋友。
 
